@@ -19,10 +19,12 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 | **Models** | **Fine-tuned Models** | **Description**                                   |
 |------------|-----------------------|---------------------------------------------------|
 | [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   | x                     | BERTweet model fine-tuned on our combined dataset |
-| xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
-| xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
+| [RoBERTa<sub>base</sub>](https://huggingface.co/roberta-base)  | x                     | RoBERTa<sub>base</sub> model fine-tuned on x dataset                   |
+| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | x                     | RoBERTa<sub>large</sub> model fine-tuned on x dataset                   |
 
 ### Usage
+
+You can use the HuggingFace Model link above to find the instructions for using this model in Python locally using the notebook provided in the Git repo.
 
 ### Citation
 
