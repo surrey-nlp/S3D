@@ -27,3 +27,7 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 ### Citation
 
 ### BibTex Citation
+
+## Maintainer(s)
+[Jordan Painter](https://github.com/jordanpainter) <br/>
+[Diptesh Kanojia](https://dipteshkanojia.github.io)
