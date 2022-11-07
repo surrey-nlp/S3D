@@ -18,6 +18,12 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 
 | **Models** | **Fine-tuned Models** | **Description**                                   |
 |------------|-----------------------|---------------------------------------------------|
-| ['BERTweet'](https://huggingface.co/docs/transformers/model_doc/bertweet)   | x                     | BERTweet model fine-tuned on our combined dataset |
+| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   | x                     | BERTweet model fine-tuned on our combined dataset |
 | xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
 | xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
+
+### Usage
+
+### Citation
+
+### BibTex Citation
