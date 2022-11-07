@@ -16,10 +16,8 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 
 ### Models
 
-Our best performing models are all to be uploaded to our HuggingFace repository
-
-| Models | [`PLOD - Unfiltered`](https://huggingface.co/datasets/surrey-nlp/PLOD-unfiltered) | [`PLOD - Filtered`](https://huggingface.co/datasets/surrey-nlp/PLOD-filtered) | Description |
-| --- | :---: | --- |
-| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet) | [RoBERTa<sub>large</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr)  | Fine-tuning on the RoBERTa<sub>large</sub> language model |
-| [RoBERTa<sub>base</sub>](https://huggingface.co/roberta-base)  | [RoBERTa<sub>base</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr) | Fine-tuning on the RoBERTa<sub>base</sub> language model |
-| [AlBERT<sub>large-v2</sub>](https://huggingface.co/albert-large-v2) | [AlBERT<sub>large-v2</sub>-finetuned-abbDet](https://huggingface.co/surrey-nlp/albert-large-v2-finetuned-abbDet) | Fine-tuning on the AlBERT<sub>large-v2</sub> language model |
+| **Models** | **Fine-tuned Models** | **Description**                                   |
+|------------|-----------------------|---------------------------------------------------|
+| ['BERTweet'](https://huggingface.co/docs/transformers/model_doc/bertweet)   | x                     | BERTweet model fine-tuned on our combined dataset |
+| xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
+| xxxxxxxxx  | x                     | x model fine-tuned on x dataset                   |
