@@ -4,4 +4,4 @@ This is the repository for our 'Utilizing Weak Supervision to Create S3D: A Sarc
 
 ### Datasets
 
-SAD - We provide the Tweet IDs and the given sarcasm labels of 2340 manually annotated tweets collected observing #sarcasm hashtags
+SAD - We provide the Tweet IDs and the given sarcasm labels of 2340 manually annotated tweets which were collected observing the #sarcasm hashtag
