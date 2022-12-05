@@ -1,4 +1,4 @@
-<p align="center"><img src="./imgs/icon.svg" alt="logo" width="185" height="100"></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="logo" width="185" height="100"/>
+<p align="center"><img src="./imgs/icon.svg" alt="logo" width="185" height="100"><img src="imgs/aisurrey.svg" alt="logo" width="185" height="100"/></p>
 
 # S3D: A Weakly Supervised Sarcasm Dataset
 
