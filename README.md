@@ -19,7 +19,7 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 | **Models** | **Fine-tuned Models** | **Description**                                   |
 |------------|-----------------------|---------------------------------------------------|
 | [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   | Coming soon                   | BERTweet model fine-tuned on our combined dataset |
-| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)  |  [BERTweet-base-finetuned-SARC-DS]([surrey-nlp/bertweet-base-finetuned-SARC-DS](https://huggingface.co/surrey-nlp/bertweet-base-finetuned-SARC-DS)                    | BERTweet model fine-tuned on the SARC dataset                   |
+| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)  |  [BERTweet-base-finetuned-SARC-DS](https://huggingface.co/surrey-nlp/bertweet-base-finetuned-SARC-DS)                    | BERTweet model fine-tuned on the SARC dataset                   |
 | [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | Coming soon                     | RoBERTa<sub>large</sub> model fine-tuned on our combined dataset                   |
 
 ### Usage
