@@ -18,17 +18,13 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 
 | **Models** | **Fine-tuned Models** | **Description**                                   |
 |------------|-----------------------|---------------------------------------------------|
-| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   | x                     | BERTweet model fine-tuned on our combined dataset |
-| [RoBERTa<sub>base</sub>](https://huggingface.co/roberta-base)  | x                     | RoBERTa<sub>base</sub> model fine-tuned on x dataset                   |
-| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | x                     | RoBERTa<sub>large</sub> model fine-tuned on x dataset                   |
+| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   | Coming soon                   | BERTweet model fine-tuned on our combined dataset |
+| [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)  |  [BERTweet-base-finetuned-SARC-DS](https://huggingface.co/surrey-nlp/bertweet-base-finetuned-SARC-DS)                    | BERTweet model fine-tuned on the SARC dataset                   |
+| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | Coming soon                     | RoBERTa<sub>large</sub> model fine-tuned on our combined dataset                   |
 
 ### Usage
 
-You can use the HuggingFace Model link above to find the instructions for using this model in Python locally using the notebook provided in the Git repo.
-
-### Citation
-
-### BibTex Citation
+You can use the HuggingFace Model link above to find the instructions for using this model locally in Python using the notebook provided in the Git repo.
 
 ## Maintainer(s)
 [Jordan Painter](https://github.com/jordanpainter) <br/>
