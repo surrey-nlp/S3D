@@ -24,11 +24,7 @@ We use three of our best performing sarcasm detection models to demonstrate the 
 
 ### Usage
 
-You can use the HuggingFace Model link above to find the instructions for using this model in Python locally using the notebook provided in the Git repo.
-
-### Citation
-
-### BibTex Citation
+You can use the HuggingFace Model link above to find the instructions for using this model locally in Python using the notebook provided in the Git repo.
 
 ## Maintainer(s)
 [Jordan Painter](https://github.com/jordanpainter) <br/>
