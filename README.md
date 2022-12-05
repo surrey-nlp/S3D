@@ -21,7 +21,7 @@ S3D-v2 - We provide the Tweet IDs of 100,000 tweets along with their respective 
 
 ### Experiments
 
-We provide a notebook to show the labelling process of our S3D-v1 dataset. You can reproduce the experiments via our Python [notebook](https://github.com/surrey-nlp/S3D/blob/main/nbs/create-s3d-v1.ipynb) which uses HuggingFace Trainer class to perform the same experiments. We aim to have a notebook ready to demonstrate the majority voting annotations very soon.
+We provide a notebook to show the labelling process of our S3D-v1 dataset. You can reproduce the experiments via our Python [notebook](https://github.com/surrey-nlp/S3D/blob/main/nbs/create-s3d-v1.ipynb) which uses HuggingFace to load our BERTweet model and then label the S3D dataset. We aim to have a notebook ready to demonstrate the majority voting annotations soon.
 
 ### Models
 
