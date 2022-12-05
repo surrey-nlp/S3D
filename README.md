@@ -1,6 +1,13 @@
 <p align="left"><img src="./imgs/icon.svg" alt="logo" width="370" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="logo" width="370" height="200"/></p>
 
+
 # S3D: A Weakly Supervised Sarcasm Dataset
+
+[![GitHub issues](https://img.shields.io/github/issues/surrey-nlp/S3D?style=flat-square)](https://github.com/surrey-nlp/S3D/issues)
+[![GitHub stars](https://img.shields.io/github/stars/surrey-nlp/S3D?style=flat-square)](https://github.com/surrey-nlp/S3D/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/surrey-nlp/S3D?style=flat-square)](https://github.com/surrey-nlp/S3D/network)
+[![GitHub license](https://img.shields.io/github/license/surrey-nlp/S3D?style=flat-square)](https://github.com/surrey-nlp/S3D)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
 
 This is the repository for our 'Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset' paper submitted to the EMNLP NLP+CSS 2022 workshop. This repository includes our SAD dataset along with version 1 and 2 of our S3D dataset. Both of these twitter datasets can be used for the purpose of training sarcasm detection models.
 
