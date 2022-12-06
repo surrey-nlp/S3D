@@ -13,9 +13,9 @@ This is the repository for our 'Utilizing Weak Supervision to Create S3D: A Sarc
 
 ### Datasets
 
-SAD - We provide the Tweet IDs and the given sarcasm labels of 2340 manually annotated tweets which were collected observing the #sarcasm hashtag.
+SAD - We provide the Tweet IDs and the given sarcasm labels of 2340 manually annotated tweets which were collected observing the #sarcasm hashtag. [Available on HuggingFace(https://huggingface.co/datasets/surrey-nlp/SAD)
 
-S3D-v1 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by a fine-tuned BERTweet model which was trained on our 'Combined dataset', a corpus of over a million tweets and reddit comments labelled for sarcasm in previous works.
+S3D-v1 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by a fine-tuned BERTweet model which was trained on our 'Combined dataset', a corpus of over a million tweets and reddit comments labelled for sarcasm in previous works. [Available on HuggingFace(https://huggingface.co/datasets/surrey-nlp/S3D-v1)
 
 S3D-v2 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by an ensemble of our 'best' three fine-tuned sarcasm detection models.
 
