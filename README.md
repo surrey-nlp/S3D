@@ -17,11 +17,11 @@ SAD - We provide the Tweet IDs and the given sarcasm labels of 2340 manually ann
 
 S3D-v1 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by a fine-tuned BERTweet model which was trained on our 'Combined dataset', a corpus of over a million tweets and reddit comments labelled for sarcasm in previous works. [Available on HuggingFace](https://huggingface.co/datasets/surrey-nlp/S3D-v1)
 
-S3D-v2 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by an ensemble of our 'best' three fine-tuned sarcasm detection models.
+S3D-v2 - We provide the Tweet IDs of 100,000 tweets along with their respective labels which were predicted by an ensemble of our 'best' three fine-tuned sarcasm detection models. [Available on HuggingFace](https://huggingface.co/datasets/surrey-nlp/S3D-v2)
 
 ### Experiments
 
-We provide a notebook to show the labelling process of our S3D-v1 dataset. You can reproduce the experiments via our Python [notebook](https://github.com/surrey-nlp/S3D/blob/main/nbs/create-s3d-v1.ipynb) which uses HuggingFace to load our BERTweet model and then label the S3D dataset. We aim to have a notebook ready to demonstrate the majority voting annotations soon.
+We provide a notebook to show the labelling process of our datasets. You can reproduce the experiments to create S3D-v1 and S3D-v2 via our Python [notebooks](https://github.com/surrey-nlp/S3D/blob/main/nbs/) which uses HuggingFace to load the relevant models to label the dataset.
 
 ### Models
 
