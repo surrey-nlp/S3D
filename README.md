@@ -29,7 +29,7 @@ We provide a notebook to show the labelling process of our S3D-v1 dataset. You c
 |------------|-----------------------|---------------------------------------------------|
 | [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)   |  [BERTweet-base-finetuned-SARC-combined-DS](https://huggingface.co/surrey-nlp/bertweet-base-finetuned-SARC-combined-DS)                  | BERTweet model fine-tuned on our combined dataset |
 | [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet)  |  [BERTweet-base-finetuned-SARC-DS](https://huggingface.co/surrey-nlp/bertweet-base-finetuned-SARC-DS)                    | BERTweet model fine-tuned on the SARC dataset                   |
-| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | Coming soon                     | RoBERTa<sub>large</sub> model fine-tuned on our combined dataset                   |
+| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large)  | [roberta-large-finetuned-SARC-combined-DS](https://huggingface.co/surrey-nlp/roberta-large-finetuned-SARC-combined-DS)                     | RoBERTa<sub>large</sub> model fine-tuned on our combined dataset                   |
 ## Maintainer(s)
 [Jordan Painter](https://github.com/jordanpainter) <br/>
 [Diptesh Kanojia](https://dipteshkanojia.github.io)
