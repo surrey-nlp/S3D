@@ -1,4 +1,4 @@
-<p align="left"><img src="./imgs/icon.svg" alt="logo" width="370" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="logo" width="370" height="200"/></p>
+<p align="center"><img src="./imgs/icon.svg" alt="logo" width="270" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="Surrey Institute for People-centred AI" width="270"/></p>
 
 
 # S3D: A Weakly Supervised Sarcasm Dataset
